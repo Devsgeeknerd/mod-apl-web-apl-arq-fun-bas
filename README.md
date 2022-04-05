@@ -1,51 +1,66 @@
-# BOOTSTRAP 4
+<!-- TITLE -->
+# Curso de Bootstrap
 
-***Aulas:***
+<!-- * ***Conteúdo:*** -->
 
-- [ ] O que é, pra que Serve e Como Baixar?
-- [ ] Estrurando o Projeto.
-- [ ] Usando o Console do Navegador.
-- [ ] Grid — Introdução.
-- [ ] Grid — Coluna com Largura e Nova Linha.
-- [ ] Grid — Ordenando Colunas.
-- [ ] Grid — JustifyContent e AlignItems.
-- [ ] Media Component.
-- [ ] Imagens.
-- [ ] Tabelas.
-- [ ] Alertas e Avisos.
-- [ ] Botões e Grupos de Botões.
-- [ ] Slideshow.
-- [ ] Collapse.
-- [ ] DropDown.
-- [ ] Formulários.
-- [ ] Input Group.
-- [ ] List Group.
-- [ ] Modal.
-- [ ] Navbar.
-- [ ] Paginação.
-- [ ] Tooltip.
-- [ ] Utilidades.
-- [ ] Projeto — Formulário de Login (Parte 1).
-- [ ] Projeto — Formulário de Login (Parte 2).
-- [ ] Exercício — One-page Layout.
-- [ ] Projeto — Filmes em Cartaz (Parte 1).
-- [ ] Projeto — Filmes em Cartaz (Parte 2).
-- [ ] Exercício — Quiz.
-- [ ] Exercício — Buscador de GIF.
+<!-- TABLE OF CONTENTS -->
+<!-- ## TABELA DE CONTEÚDO -->
 
+<!-- * [Vista por cima](#vista-por-cima) -->
+<!--  * [Foto da tela](#foto-da-tela) -->
+<!--  * [Links](#links) -->
+<!-- * [Meu processo](#meu-processo) -->
+<!--  * [Contruido com](#construido-com) -->
+<!--  * [O que aprendi](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recusos úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+<!-- * [Informações](#informações) -->
+
+<!-- OVERVIEW -->
+<!-- ## VISTA POR CIMA -->
+
+<!-- SCREENSHOT -->
+<!-- ### FOTO DA TELA -->
+
+<!-- LINKS -->
+<!-- ### LINKS -->
+
+<!-- MY PROCESS -->
+<!-- ## MEU PROCESSO -->
+
+<!-- BUILT WITH -->
+<!-- ### CONSTRUIDO COM -->
+
+<!-- WHAT I LEARNED -->
+<!-- ### O QUE APRENDI -->
+
+<!-- CONTINUED DEVELOPMENT -->
+<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+
+<!-- USEFUL RESOURCES -->
+<!-- ### RECURSOS ÚTEIS -->
+
+<!-- AUTHOR -->
+<!-- ## AUTOR -->
+
+<!-- ACKNOWLEDGMENTS -->
+<!-- ## AGRADECIMENTOS -->
+
+<!-- INFORMATION -->
 ## INFORMAÇÕES
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.bootstrap4-front-end-zp "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fbootstrap-fe-zp&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+<!-- ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores") -->
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/bootstrap4-front-end-zp?style=social "Total de Observadores")
+<!-- ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores") -->
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/bootstrap4-front-end-zp?style=social "Total de Estrelas Recebidas")
+<!-- ![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas") -->
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/bootstrap4-front-end-zp?style=social "Total de Forks")
+<!-- ![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações") -->
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/bootstrap4-front-end-zp?style=social "Tamanho do Repositório")
+<!-- ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório") -->
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/bootstrap4-front-end-zp?style=social "Licença do Repositório")
-
+<!-- ![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório") -->
