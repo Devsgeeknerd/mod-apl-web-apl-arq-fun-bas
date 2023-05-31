@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Características Das Aplicações Web.](https://github.com/Devsgeeknerd/cla-car-das-apl-web-apl-web-apl-arq-fun-bas) &#128679;
+* [x] [Características Das Aplicações Web.](https://github.com/Devsgeeknerd/cla-car-das-apl-web-apl-web-apl-arq-fun-bas)
 * [ ] [Principais Tipos de Aplicações Web.](https://github.com/Devsgeeknerd/cla-pri-tip-apl-web-apl-web-apl-arq-fun-bas) &#128679;
 * [ ] [Como as Aplicações Web Funcionam na Visão do Navegador.](https://github.com/Devsgeeknerd/cla-com-apl-web-fun-vis-nav-apl-web-apl-arq-fun-bas) &#128679;
 * [ ] [Arquiteturas Comuns de Aplicações Web.](https://github.com/Devsgeeknerd/cla-arq-com-apl-web-apl-web-apl-arq-fun-bas) &#128679;
