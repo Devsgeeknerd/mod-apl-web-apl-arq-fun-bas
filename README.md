@@ -6,7 +6,7 @@
 * [x] [Características Das Aplicações Web.](https://github.com/Devsgeeknerd/cla-car-das-apl-web-apl-web-apl-arq-fun-bas)
 * [x] [Principais Tipos de Aplicações Web.](https://github.com/Devsgeeknerd/cla-pri-tip-apl-web-apl-web-apl-arq-fun-bas)
 * [x] [Como as Aplicações Web Funcionam na Visão do Navegador.](https://github.com/Devsgeeknerd/cla-com-apl-web-fun-vis-nav-apl-web-apl-arq-fun-bas)
-* [ ] [Arquiteturas Comuns de Aplicações Web.](https://github.com/Devsgeeknerd/cla-arq-com-apl-web-apl-web-apl-arq-fun-bas) &#128679;
+* [x] [Arquiteturas Comuns de Aplicações Web.](https://github.com/Devsgeeknerd/cla-arq-com-apl-web-apl-web-apl-arq-fun-bas)
 * [ ] [Qual a Diferença Entre Framework e Biblioteca?](https://github.com/Devsgeeknerd/cla-qua-dif-ent-fra-bib-apl-web-apl-arq-fun-bas) &#128679;
 * [ ] [Tecnologias e Linguagens Para Desenvolvimento Web.](https://github.com/Devsgeeknerd/cla-tec-lin-par-des-web-apl-web-apl-arq-fun-bas) &#128679;
 
